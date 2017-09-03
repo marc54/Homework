@@ -43,7 +43,7 @@ public class Question6{
 			else if((radius[0] +radius[1]) <distance){
 				System.out.println("The Circles don't overlap.");
 			}
-			0else if (radius[0] + radius[1] > distance ){
+			else if (radius[0] + radius[1] > distance ){
 				
 				if(distance + radius[0] < radius[1] || distance + radius[1] < radius[0]){
 					System.out.println("The circles are completely within each other");
