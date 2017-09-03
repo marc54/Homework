@@ -1,0 +1,33 @@
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework1\Question5>java Question5
+Pease enter 3 (x,y) coordinates
+Enter the X-value for coordinate1
+2
+Enter the Y-value for coordinate1
+2
+Enter the X-value for coordinate2
+3
+Enter the Y-value for coordinate2
+3
+Enter the X-value for coordinate3
+4
+Enter the Y-value for coordinate3
+
+4
+The coordinates create a triangle
+Enter ^z to Exit or Enter new X-Value For coordinate 1
+1
+Pease enter 3 (x,y) coordinates
+Enter the X-value for coordinate1
+Enter the Y-value for coordinate1
+1234
+Enter the X-value for coordinate2
+65
+Enter the Y-value for coordinate2
+98
+Enter the X-value for coordinate3
+12
+Enter the Y-value for coordinate3
+2
+Fake triangle was input
+Enter ^z to Exit or Enter new X-Value For coordinate 1
+^Z

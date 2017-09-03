@@ -1,0 +1,92 @@
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework1\Question6>java Question6
+Pease enter the (x,y) coordinates and radius of 2 circles
+Enter the X-value for circle 1
+0
+Enter the Y-value for cirlce 1
+0
+Enter the radius for circle
+1
+Enter the X-value for circle 2
+0
+Enter the Y-value for cirlce 2
+0
+Enter the radius for circle
+1
+The circles are touching at every point
+Enter ^z to Exit or Enter new X-Value For circle 1
+0
+Pease enter the (x,y) coordinates and radius of 2 circles
+Enter the X-value for circle 1
+Enter the Y-value for cirlce 1
+0
+Enter the radius for circle
+1
+Enter the X-value for circle 2
+1
+Enter the Y-value for cirlce 2
+0
+Enter the radius for circle
+1
+The circles overlap
+Enter ^z to Exit or Enter new X-Value For circle 1
+0
+Pease enter the (x,y) coordinates and radius of 2 circles
+Enter the X-value for circle 1
+Enter the Y-value for cirlce 1
+0
+Enter the radius for circle
+1
+Enter the X-value for circle 2
+0
+Enter the Y-value for cirlce 2
+0
+Enter the radius for circle
+2
+The circles are within each other
+Enter ^z to Exit or Enter new X-Value For circle 1
+0
+Pease enter the (x,y) coordinates and radius of 2 circles
+Enter the X-value for circle 1
+Enter the Y-value for cirlce 1
+0
+Enter the radius for circle
+4
+Enter the X-value for circle 2
+0
+Enter the Y-value for cirlce 2
+2
+Enter the radius for circle
+1
+The circles are completely within each other
+Enter ^z to Exit or Enter new X-Value For circle 1
+0
+Pease enter the (x,y) coordinates and radius of 2 circles
+Enter the X-value for circle 1
+Enter the Y-value for cirlce 1
+0
+Enter the radius for circle
+1
+Enter the X-value for circle 2
+0
+Enter the Y-value for cirlce 2
+4
+Enter the radius for circle
+1
+The circles touch
+Enter ^z to Exit or Enter new X-Value For circle 1
+0
+Pease enter the (x,y) coordinates and radius of 2 circles
+Enter the X-value for circle 1
+Enter the Y-value for cirlce 1
+0
+Enter the radius for circle
+1
+Enter the X-value for circle 2
+0
+Enter the Y-value for cirlce 2
+7
+Enter the radius for circle
+1
+The Circles don't overlap.
+Enter ^z to Exit or Enter new X-Value For circle 1
+^Z

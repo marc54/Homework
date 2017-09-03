@@ -1,0 +1,19 @@
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework1\Question3>java Question3
+6
+June
+
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework1\Question3>java Question3
+2
+Feburary
+
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework1\Question3>java Question3
+11
+November
+
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework1\Question3>java Question3
+6
+June
+
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework1\Question3>java Question3
+2
+Feburary

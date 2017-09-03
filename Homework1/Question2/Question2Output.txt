@@ -1,0 +1,31 @@
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework1\Question2>java Question2
+
+Enter a radius value to compute the area.
+To EXIT enter ^d
+34
+
+The area is 3631.681107549801.
+
+Enter a radius value to compute the area.
+To EXIT enter ^d
+1.1
+
+The area is 3.8013271108436504.
+
+Enter a radius value to compute the area.
+To EXIT enter ^d
+65
+
+The area is 13273.228961416877.
+
+Enter a radius value to compute the area.
+To EXIT enter ^d
+adaf
+You have entered an incorrect value
+
+Enter a radius value to compute the area.
+To EXIT enter ^d
+^Z
+
+Have a nice day!
+
