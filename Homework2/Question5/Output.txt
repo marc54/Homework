@@ -1,0 +1,12 @@
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework2\Question5>java Question5
+123,4567,12345,34567,34567,34567,87654,5432,12345,
+123
+4567
+12345
+34567
+34567
+34567
+87654
+5432
+12345
+^Z

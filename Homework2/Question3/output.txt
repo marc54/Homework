@@ -1,0 +1,17 @@
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework2\Question3>java Question3
+Enter a word or phrase to check if it's a palindrome: >>  anna
+The word anna is a palindrome
+
+Enter a word or phrase to check if it's a palindrome: >>  ana
+The word ana is a palindrome
+
+Enter a word or phrase to check if it's a palindrome: >>  hello
+The word hello isnt a palindrome
+
+Enter a word or phrase to check if it's a palindrome: >>  bye
+The word bye isnt a palindrome
+
+Enter a word or phrase to check if it's a palindrome: >>  madamimadam
+The word madamimadam is a palindrome
+
+Enter a word or phrase to check if it's a palindrome: >>  ^Z
