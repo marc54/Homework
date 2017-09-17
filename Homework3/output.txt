@@ -1,0 +1,14 @@
+C:\Users\Marc Pfeiffer\Documents\Fall '17\Object-Oriented Programming\Homework\Homework3>java Homework3
+Enter a string a characters!
+QAZwsxEDCrfvTGB
+
+Printout of String is QAZwsxEDCrfvTGB
+The length of the string is 15
+The 3rd letter in MyString is Z
+SubString is Zw
+LowerCase String is qazwsxedcrfvtgb
+UpperCase String is QAZWSXEDCRFVTGB
+
+Enter a string a numbers!
+12345678
+ValueOf String is 12345678
