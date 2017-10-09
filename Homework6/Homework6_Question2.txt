@@ -1,0 +1,82 @@
+A)
+	Dog d = new Dog();
+	System.out.println(d.call(3));
+
+>USE OF: Polymorphism and overloading
+>PRINTS OUT:woof, woof, woof!
+
+
+
+C)
+	Object v = new Pet();
+	System.out.println(v.call())
+
+>Error
+>USE OF: N/A
+>PRINTS OUT: N/A
+
+
+
+D)
+	Pet p = new Pet();
+	System.out.println(p);
+
+>PRINTS OUT: I'm a cat go away!
+>USE OF: Polymorphism
+
+D)
+	Object c = new Cat();
+	System.out.println(c);
+
+>USE OF:Polymorphism/ Overloading
+>USE OF: object.toString()
+>PRINTS OUT: Pet@1db9742, 
+
+ 
+
+
+
+E)
+	Pet q = new Dog();
+	System.out.println(q.call());
+		
+>USE OF: overloading
+>PRINTS OUT: woof
+
+
+
+F)
+	Cat t = new Cat();
+	System.out.println(t.toString("Come here, kitty"));
+		
+>USE OF: overloading
+>PRINTS OF: Come here, kitty? ... Don't waste my time.
+
+
+H)
+	Cat u = new Cat();
+	System.out.println(u.call(3));
+
+>ERROR
+>USE OF: N/A
+>PRINTS OUT: N/A
+
+
+
+I)
+	Dog e = new Dog();
+	System.out.println(e.feet()
+
+>USE OF: Polymorphism 
+>PRINTS OUT: FOUR
+
+
+
+J)
+	Pet r = new Dog();
+	System.out.println(r.call(3));
+>ERROR
+>USE OF: N/A
+>PRINTs OUT: N/A
+
+
