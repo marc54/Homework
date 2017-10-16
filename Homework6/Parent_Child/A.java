@@ -1,4 +1,4 @@
-package Parent_Child.model;
+package Parent_Child;
 
 class A{
 	private int x =5;

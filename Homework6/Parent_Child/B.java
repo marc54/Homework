@@ -1,3 +1,3 @@
-package Parent_Child.model;
+package Parent_Child;
 
-class B extends A{}
+public class B extends A{}

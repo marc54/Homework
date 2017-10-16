@@ -8,4 +8,3 @@ public class Question1{
 
 
 
-class B extends A{}
